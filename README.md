@@ -1,7 +1,7 @@
-## Ola! Eu sou o JANDESS0N um ser aleatório ✌
+## Ola! Eu sou o JANDESS0N, um ser aleatório ✌
 
-- 👀  Tentando entender esse mundo dev
-- 🌱  Estudade de SI
+- 👀  Tentando entender esse mundo Dev
+- 🌱  Estudante de SI
 
 <div align="center">
   <a href="https://github.com/JANDESS0N-PEREIRA">
