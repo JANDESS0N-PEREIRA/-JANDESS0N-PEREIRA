@@ -1,4 +1,4 @@
-## Fala "GUYS". Eu sou o JANDESS0N um ser aleatório ✌
+## ola! Eu sou o JANDESS0N um ser aleatório ✌
 
 - 👀  Tentando entender esse mundo dev
 - 🌱  Estudade de SI
