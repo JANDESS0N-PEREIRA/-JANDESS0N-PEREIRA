@@ -1,4 +1,4 @@
-## ola! Eu sou o JANDESS0N um ser aleatório ✌
+## Ola! Eu sou o JANDESS0N um ser aleatório ✌
 
 - 👀  Tentando entender esse mundo dev
 - 🌱  Estudade de SI
@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/JANDESS0N-PEREIRA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JANDESS0N-PEREIRA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANDESS0N-PEREIRA&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANDESS0N-PEREIRA&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
